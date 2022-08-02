@@ -20,5 +20,3 @@ Results:
 <img width="250" alt="Screen Shot 2022-08-02 at 3 28 33 PM" src="https://user-images.githubusercontent.com/107653012/182458063-25664675-ce03-4117-bb62-4dd05f6ee88d.png">
 
 
-Summary:
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
